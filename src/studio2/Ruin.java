@@ -17,7 +17,7 @@ public class Ruin {
 	double winLimit = in.nextDouble();
 	System.out.print("Total Simulations");
 	double totalSimulations = in.nextDouble();
-		 
+	
 	double count = startAmount; 
 	
 	while (count <= winLimit) {
